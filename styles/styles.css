@@ -1,0 +1,230 @@
+/* theme colors: #ee3e80, #efefef, rgb(98,80,77), rgb(123,154,73) */
+#main {
+	background-color:#efefef;
+	border-radius: 5px;
+	margin-top: 20px;
+
+	padding:10px 0px 5px 0px; 
+	height: 1850px;
+	}
+
+
+#oak {
+	background-color:#efefef;
+	border-radius: 5px;
+	margin-top: 20px;
+ 
+	padding:10px 10px 10px 0px; 
+	height: 600px;
+	
+	}
+
+img.medium {
+	height: 350px;
+	width: 285px;
+
+}
+
+#pokeTable {
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+
+#rival {
+	background-color:#efefef;
+	border-radius: 5px;
+	margin-top: 20px;
+	
+	padding:10px 0px 5px 0px; 
+	height: 500px;
+	}
+	
+}
+
+
+h2 {
+	display: inline;
+}
+
+
+p {
+	width: 
+}
+
+
+
+
+#oakIntro {
+	background-color:#efefef;
+	border-radius: 5px;
+	padding: 1em;
+	height: 150px;
+	width: 50em;
+	border-style: double;
+	border-width: 2px;
+	border-color: black;
+	display: block;
+	margin-left: 20em;
+	position: relative;
+	float: right;
+	margin-top: 30%;
+}
+
+
+
+
+#oakIntroPic {
+	border-radius: 5px;
+	display: block;
+	position: absolute;
+	margin-top: 25em;
+	float: left;
+	margin-bottom: 0em;
+	margin-left: 15em;
+	margin-right: 1em;
+			}
+			
+			
+			
+			
+			
+body{
+  background: #000;
+  padding-top: 10px;
+} 
+
+p{
+  color: black; 
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 50em;
+  animation: type 4s steps(80, end); 
+}
+
+p:nth-child(2){
+  animation: type2 6s steps(80, end);
+}
+p:nth-child(3){
+  animation: type2 9s steps(80, end);
+}
+p:nth-child(4){
+  animation: type2 12s steps(80, end);
+}
+
+
+p a{
+  color: black;
+  text-decoration: none;
+}
+
+span{
+  animation: blink 1s infinite;
+}
+
+@keyframes type{ 
+  from { width: 0; } 
+} 
+
+@keyframes type2{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{ width: 100; } 
+} 
+
+@keyframes blink{
+  to{opacity: .0;}
+}
+
+::selection{
+  background: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* theme colors: #ee3e80, #efefef, rgb(98,80,77), rgb(123,154,73) */
+
+
+
